@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**lhvk/lhvk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm Lars and this is my repository** 
 
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning React
