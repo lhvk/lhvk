@@ -6,7 +6,7 @@
 Higher professional degree in Frontend @ Noroff School of Tech & Media (Oct 2023)
 
 #### 💼 Current Work
-I’m currently working as a frontend dev at a company
+I’m currently working as a software developer with a front-end focus
 
 #### 👨‍💻 Tech Stack
 ![HTML Badge](https://img.shields.io/badge/HTML-5F5F5F?style=flat&logo=html5)
